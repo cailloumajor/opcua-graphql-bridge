@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "opcua-webhmi-bridge"
-version = "1.0.6"
+version = "1.0.7"
 description = "Bridge between OPC-UA server and web-based HMI"
 authors = [ "Arnaud Rocher <arnaud.roche3@gmail.com>" ]
 license = "MIT"

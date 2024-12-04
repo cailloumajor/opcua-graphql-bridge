@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.0.7](https://github.com/cailloumajor/opcua-webhmi-bridge/compare/v1.0.6...v1.0.7) (2023-10-18)
+
+
+### Bug Fixes
+
+* deprecated poetry option ([6e6bf77](https://github.com/cailloumajor/opcua-webhmi-bridge/commit/6e6bf77345c3078361fbb6e63ca0a26898134d51))
+* **deps:** update black to 23.9.1 ([938621b](https://github.com/cailloumajor/opcua-webhmi-bridge/commit/938621b2003f4d359cf8061af912f5e10e3bcdf7))
+* **deps:** update pytest-httpserver to 1.0.8 ([c03367d](https://github.com/cailloumajor/opcua-webhmi-bridge/commit/c03367d2beea4886e8d1fe73820e96852d4f3a38))
+* **deps:** update Python docker tag to 3.10.13 ([65d63aa](https://github.com/cailloumajor/opcua-webhmi-bridge/commit/65d63aaaa96089e4f66896257fe3cf649afdad5f))
+* **deps:** update typer to 0.5.0 ([da02daf](https://github.com/cailloumajor/opcua-webhmi-bridge/commit/da02daf243bab18e2ffa698831f274c55b239cbb))
+* lint warnings ([7c24b92](https://github.com/cailloumajor/opcua-webhmi-bridge/commit/7c24b9250c771ccf539927a6d88b0ef7c67dc5d2))
+* move to standard dev container ([634e492](https://github.com/cailloumajor/opcua-webhmi-bridge/commit/634e492e720d05876b52047f3e655cf9bad21b27))
+* pin dependencies and update indirect ones ([710d0fa](https://github.com/cailloumajor/opcua-webhmi-bridge/commit/710d0fa5fdec2fd289fa82af8e373ac3ce8db1d3))
+* Poetry install URL ([e876409](https://github.com/cailloumajor/opcua-webhmi-bridge/commit/e8764098d8d0efcfaebbe7bd89b44b48dad5415d))
+
 ### [1.0.6](https://www.github.com/cailloumajor/opcua-webhmi-bridge/compare/v1.0.5...v1.0.6) (2022-01-07)
 
 
