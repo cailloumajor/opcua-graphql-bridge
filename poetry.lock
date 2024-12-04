@@ -146,12 +146,13 @@ files = [
 
 [[package]]
 name = "asyncua"
-version = "0.9.14"
+version = "0.9.98"
 description = "Pure Python OPC-UA client and server library"
 optional = false
 python-versions = "*"
 files = [
-    {file = "asyncua-0.9.14.tar.gz", hash = "sha256:d89047f9a24ca339794d4dba93f5cf8d575723548623f74dc05b8fb23bd40aa6"},
+    {file = "asyncua-0.9.98-py3-none-any.whl", hash = "sha256:aadda7e64742d4b55eb3f7a130f76143dc33f7ee27e85e4c3295357470c65a0e"},
+    {file = "asyncua-0.9.98.tar.gz", hash = "sha256:f582bb98fdeaf964117a73447ec3ec6cd7ca872e90494212b19a047c940adc75"},
 ]
 
 [package.dependencies]
@@ -1648,4 +1649,4 @@ multidict = ">=4.0"
 [metadata]
 lock-version = "2.0"
 python-versions = "~3.10"
-content-hash = "a9def4f9291822a6f198c5e55270caa641af1c0cee94ec6f91e5a77ce2c31221"
+content-hash = "d7c552a77b4dfa9d6d3df513fceef5f61ebe208389a77f0c1138f30e4fb2e01a"
